@@ -1,7 +1,8 @@
 {
   "name": "VanillaPlus",
   "description": "Just a small modpack for me and my friends.",
-  "version_number": "1.0.1",
+  "website_url": "https://github.com/NobodyCentral/thunderstore-modpacks",
+  "version_number": "1.0.2",
   "dependencies": [
     "ValheimModding-Jotunn-2.26.1",
     "Azumatt-AzuCraftyBoxes-1.8.4",
