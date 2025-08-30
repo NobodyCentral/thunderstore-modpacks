@@ -1,0 +1,17 @@
+{
+  "name": "VanillaPlus",
+  "description": "Just a small modpack for me and my friends.",
+  "version_number": "1.0.1",
+  "dependencies": [
+    "ValheimModding-Jotunn-2.24.3",
+    "Azumatt-AzuCraftyBoxes-1.8.4",
+    "Therzie-Warfare-1.8.9",
+    "Therzie-Monstrum-1.5.1",
+    "JoelOliMclean-NoRainDamage-1.2.4",
+    "rendl0449-UnlimitedFuel-1.2.1",
+    "Azumatt-SaveCrossbowState-1.0.1",
+    "Alpus-Transmog-2.0.2",
+    "virtuaCode-TrashItems-1.2.8",
+    "denikson-BepInExPack_Valheim-5.4.2202"
+  ]
+}

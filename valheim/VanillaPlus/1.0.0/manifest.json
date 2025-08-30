@@ -1,0 +1,18 @@
+{
+    "name": "VanillaPlus",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/nbdycentral",
+    "description": "Just a small modpack for me and my friends.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202",
+        "JoelOliMclean-NoRainDamage-1.2.4",
+        "ValheimModding-Jotunn-2.23.2",
+        "Alpus-Transmog-2.0.2",
+        "virtuaCode-TrashItems-1.2.8",
+        "Azumatt-AzuCraftyBoxes-1.5.10",
+        "Therzie-Warfare-1.8.8",
+        "Therzie-Monstrum-1.4.9",
+        "Azumatt-SaveCrossbowState-1.0.1",
+        "rendl0449-UnlimitedFuel-1.2.1"
+    ]
+}
